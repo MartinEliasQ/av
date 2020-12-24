@@ -1,5 +1,5 @@
 {
-  "data": [
+    "data": [
       {
         "mediaType": "text",
         "media": "",
@@ -95,9 +95,15 @@
         "caption": "Te voy a contar un secreto y es que realmente el mapache se acerco tocando la atmosfera y sintio como las nubes de sus labios, pomposas torrenciaban su pecho",
         "when": "5 years",
         "color": "#303f9f"
+      },
+      {
+        "mediaType": "text",
+        "media": "",
+        "duration": "4.0",
+        "caption": "Si. El mapache la beso primero",
+        "when": "5 years",
+        "color": "#303f9f"
       }
     ]
+  }
   
-  
-  
-}
