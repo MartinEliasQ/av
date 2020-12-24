@@ -1,7 +1,5 @@
 {
   "data": [
-  {
-    "data": [
       {
         "mediaType": "text",
         "media": "",
@@ -99,7 +97,7 @@
         "color": "#303f9f"
       }
     ]
-  }
   
-  ]
+  
+  
 }
