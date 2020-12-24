@@ -1,5 +1,21 @@
 {
 "data": [
+        {
+        "mediaType": "text",
+        "media": "",
+        "duration": "4.0",
+        "caption": "Habia una vez un mapache muy timido...",
+        "when": "5 years",
+        "color": "#303f9f"
+      },
+      {
+        "mediaType": "text",
+        "media": "",
+        "duration": "4.0",
+        "caption": "Por alguna razón, el destino, lo llevo a conocer una galaxia.",
+        "when": "5 years",
+        "color": "#303f9f"
+      },
 {
 "mediaType": "image",
 "media": "https://talksport.com/wp-content/uploads/sites/5/2019/11/NINTCHDBPICT000537053493-e1572968665876.jpg?strip=all&w=960&quality=100",
